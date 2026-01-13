@@ -1,2 +1,13 @@
-hwh
+{"meta":{
+  "role":"deploying ai based application",
+  "version": " v.0.1",
+  "model" : "rv_intelligence_layer",
+  "created_on " : " 13.01.2025 ",
+}
+"actions":{
+  // model names are "rv_intelligence_layer" followed by domain name example upi ,design etc 
+  "model": "rv_intelligence_layer", 
+  "parameters" : "
+  
+  
   
