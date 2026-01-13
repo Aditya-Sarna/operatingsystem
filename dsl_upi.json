@@ -12,13 +12,13 @@
   "comment":" scope is defined as area of action ",
   "scope":{
     "context":"user_prompt",
-    "search_permission":[
+    "search_permission":[]
     
     
     
       
     
-}
+}}
   
   
   
