@@ -7,6 +7,9 @@
 "comment":"name of model is rv_intelligence_layer +domain ",
 "permissions":{
   "code_not_allowed": ["rv_intelligence_layer" , "user" ], 
+  "generation_permission":"rv_intelligence_layer",}
+  
+  
   
 "actions":{
   "model":"rv_intelligence_layer_upi",
@@ -16,7 +19,7 @@
   "param" :{
     "input_type":"string",
     "created_on" :"13.01.2026",
-    "output_type" :["string" ,"integer", "ui/up component" ]}
+    "output_type" :["string" ,"integer", "ui/ux component" ]}
   
 
   
