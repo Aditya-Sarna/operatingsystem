@@ -2,11 +2,23 @@
   "role":"deploying ai based application",
   "version": " v.0.1",
   "model" : "rv_intelligence_layer",
-  "created_on " : " 13.01.2025 ",
+  "created_on " : " 13.01.2026",
 }
-"comment":"name of model is rv_intelligence_layer +domain 
+"comment":"name of model is rv_intelligence_layer +domain ",
+"permissions":{
+  "code_not_allowed": ["rv_intelligence_layer" , "user" ], 
+  
 "actions":{
-  "
+  "model":"rv_intelligence_layer_upi",
+  
+    
+  
+  "param" :{
+    "input_type":"string",
+    "created_on" :"13.01.2026",
+    "output_type" :["string" ,"integer", "ui/up component" ]}
+  
+
   
   
   
