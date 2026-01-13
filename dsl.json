@@ -7,7 +7,18 @@
 "comment":"name of model is rv_intelligence_layer +domain ",
 "permissions":{
   "code_not_allowed": ["rv_intelligence_layer" , "user" ], 
-  "generation_permission":"rv_intelligence_layer",}
+  "generation_permission":"rv_intelligence_layer",
+  "prompt_permission":"user",
+  "comment":" scope is defined as area of action ",
+  "scope":{
+    "context":"user_prompt",
+    "search_permission":[
+    
+    
+    
+      
+    
+}
   
   
   
