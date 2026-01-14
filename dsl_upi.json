@@ -4,7 +4,9 @@
   "model" : "rv_intelligence_layer",
   "created_on " : " 13.01.2026",
 }
-"comment":"name of model is rv_intelligence_layer +domain ",
+"identity":{
+ "naming":"name is rv_intelligence_layer<domain>",
+  "domain":"upi"}
 "permissions":{
   "code_not_allowed": ["rv_intelligence_layer" , "user" ], 
   "generation_permission":"rv_intelligence_layer",
